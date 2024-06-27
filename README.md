@@ -6,6 +6,7 @@
 
 ### 🫠 About Me
 - 🔭 I’m currently working as a full stack engineer
+- ✨ Aspiring Penetration Tester
 - 🌱 I’m working on the Hack The Box Professional Penetration Tester Certification
 - 👯 I’m looking to collaborate on Slippi Mods
 
