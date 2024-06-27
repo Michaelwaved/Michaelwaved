@@ -1,4 +1,7 @@
 ## 👋 Hi there
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNwMWxyenp2Nmg2N3h6MzV5ZTljd2l0bDV1MHgzaWhwYXJpYXdlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MM0Jrc8BHKx3y/giphy.webp" width="480" height="269" style="" />
+</div>
 
 
 ### 🫠 About Me
